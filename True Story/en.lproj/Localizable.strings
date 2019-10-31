@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  True Story
+
+  Created by Maxim on 12.10.2019.
+  Copyright © 2019 big-lab.com. All rights reserved.
+*/
+
+"big-lab.com" = "big-lab.com";
+"DatabaseUrl" = "https://big-lab.com/interactive_book/demo/en.db";
+"SiriWelcome" = "Welcome to Swift demo application";
+"SiriStart" = "Ha ha ha, let's start";
+"SiriTranslate" = "English language";
+"Header" = "iOS developer";
+"Welcome" = "Welcome";
+"Start" = "Start";
+"Server is not responsible, try later" = "Server is not responsible, try later";
+"Error" = "Error";
+"OK" = "OK";
+"Back" = "Back";
